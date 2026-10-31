@@ -1,0 +1,28 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/
+data/raw/*.pdf
+data/processed/*
+!data/processed/.gitkeep
+data/indexes/*
+!data/indexes/.gitkeep
+artifacts/*
+!artifacts/.gitkeep
+.DS_Store
+
+# Runtime logs and generated evaluation outputs
+logs/*.log
+evaluation/answer_evaluation_results.json
+evaluation/evaluation_results.json
+evaluation/citation_support_results.json
+evaluation/graph_comparison_results.json
+
+# Temporary evaluation backups
+evaluation/*.backup.json
+evaluation/*.retry_working.json
+evaluation/*.bak
+evaluation/archive/*.json

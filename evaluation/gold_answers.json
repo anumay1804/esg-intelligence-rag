@@ -1,0 +1,229 @@
+[
+  {
+    "id": "BASF-01",
+    "question": "What is BASF's greenhouse gas emissions reduction target for 2030?",
+    "expected_answer": "BASF targets a 25% reduction in combined Scope 1 and Scope 2 emissions by 2030 compared with 2018, reducing target-relevant emissions from 21.9 to 16.4 million metric tons of CO2 equivalents. The target boundary excludes sale of energy to third parties.",
+    "evidence": [
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 195,
+        "supports": [
+          "25% reduction by 2030",
+          "2018 baseline",
+          "21.9 to 16.4 million metric tons CO2e",
+          "Scope 1 and Scope 2 boundary"
+        ],
+        "source_excerpt": "Based on the 2018 base year, we want to achieve a 25% reduction in greenhouse gas emissions ... by 2030."
+      }
+    ]
+  },
+  {
+    "id": "BASF-02",
+    "question": "What were BASF's greenhouse gas emissions in 2024?",
+    "expected_answer": "The answer depends on the reporting boundary. BASF reported 17.0 million metric tons CO2e in 2024 from production and energy purchases for the target-relevant Scope 1+2 measure (excluding sale of energy to third parties; report page 195). Its corporate carbon footprint reported 17.948 million metric tons CO2e for Scope 1+2 using the market-based approach including sale of energy to third parties (page 199). These values should not be treated as interchangeable.",
+    "evidence": [
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 195,
+        "supports": [
+          "17.0 million metric tons CO2e",
+          "production and energy purchases",
+          "excluding sale of energy to third parties"
+        ],
+        "source_excerpt": "Based on the 2018 base year, we want to achieve a 25% reduction in greenhouse gas emissions ... by 2030."
+      },
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 199,
+        "supports": [
+          "17.948 million metric tons CO2e",
+          "Scope 1 and Scope 2",
+          "market-based approach including sale of energy to third parties"
+        ],
+        "source_excerpt": "In 2024, our greenhouse gas emissions ... amounted to 17.948 million metric tons of CO2 equivalents."
+      }
+    ]
+  },
+  {
+    "id": "BASF-03",
+    "question": "What is BASF's target for reducing Scope 3.1 emissions by 2030?",
+    "expected_answer": "BASF targets a 15% reduction by 2030 in specific raw-material-related Scope 3.1 emissions versus the 2022 baseline, from 1.64 to 1.39 kg CO2 per kg of raw materials purchased. The report also says it aims to keep target-relevant Scope 3.1 emissions roughly constant at 50 million metric tons CO2e by 2030. Battery materials, services, technical goods, and emissions from BASF trading business are excluded from the target definition.",
+    "evidence": [
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 195,
+        "supports": [
+          "15% by 2030 compared with 2022",
+          "1.64 to 1.39 kg CO2 per kg raw materials",
+          "Scope 3.1 exclusions"
+        ],
+        "source_excerpt": "Based on the 2018 base year, we want to achieve a 25% reduction in greenhouse gas emissions ... by 2030."
+      },
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 196,
+        "supports": [
+          "target-relevant Scope 3.1 emissions roughly constant at 50 million metric tons CO2e by 2030"
+        ],
+        "source_excerpt": "In 2024, specific Scope 3.1 emissions amounted to 1.58 kilograms of CO2 per kilogram of raw materials purchased."
+      }
+    ]
+  },
+  {
+    "id": "BASF-04",
+    "question": "What percentage of BASF's electricity came from renewable sources in 2024?",
+    "expected_answer": "Renewable electricity accounted for 26% of BASF total electricity consumption in 2024, up from 20% in 2023.",
+    "evidence": [
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 189,
+        "supports": [
+          "26% in 2024",
+          "20% in 2023",
+          "share of total electricity consumption"
+        ],
+        "source_excerpt": "In 2024, electricity from renewable sources as a share of total electricity consumption rose ... to 26% (2023: 20%)."
+      }
+    ]
+  },
+  {
+    "id": "BASF-05",
+    "question": "What was BASF's total Scope 1 and Scope 2 greenhouse gas emissions in 2024?",
+    "expected_answer": "BASF reported 17.948 million metric tons CO2e for combined Scope 1 and Scope 2 emissions in 2024, using the market-based approach and including the sale of energy to third parties. Scope 1 accounted for 87% and Scope 2 for 13%.",
+    "evidence": [
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 199,
+        "supports": [
+          "17.948 million metric tons CO2e",
+          "87% Scope 1",
+          "13% Scope 2",
+          "market-based approach including sale of energy to third parties"
+        ],
+        "source_excerpt": "In 2024, our greenhouse gas emissions ... amounted to 17.948 million metric tons of CO2 equivalents."
+      }
+    ]
+  },
+  {
+    "id": "BASF-06",
+    "question": "What is BASF's renewable power sourcing target for 2030?",
+    "expected_answer": "BASF aims to source more than 60% of its power needs from renewable sources by 2030.",
+    "evidence": [
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 189,
+        "supports": [
+          "more than 60% of power needs from renewable sources by 2030"
+        ],
+        "source_excerpt": "In 2024, electricity from renewable sources as a share of total electricity consumption rose ... to 26% (2023: 20%)."
+      }
+    ]
+  },
+  {
+    "id": "BASF-07",
+    "question": "What baseline year is used for BASF's combined Scope 1 and Scope 2 reduction target?",
+    "expected_answer": "The baseline year for BASF combined Scope 1 and Scope 2 reduction target is 2018.",
+    "evidence": [
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 195,
+        "supports": [
+          "2018 base year",
+          "Scope 1 and Scope 2 reduction target"
+        ],
+        "source_excerpt": "Based on the 2018 base year, we want to achieve a 25% reduction in greenhouse gas emissions ... by 2030."
+      }
+    ]
+  },
+  {
+    "id": "BASF-08",
+    "question": "What are BASF's specific Scope 3.1 emissions per kilogram of raw materials purchased in 2024?",
+    "expected_answer": "BASF reported specific Scope 3.1 emissions of 1.58 kg CO2 per kg of raw materials purchased in 2024.",
+    "evidence": [
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 196,
+        "supports": [
+          "2024 specific Scope 3.1 emissions",
+          "1.58 kg CO2 per kg of raw materials purchased"
+        ],
+        "source_excerpt": "In 2024, specific Scope 3.1 emissions amounted to 1.58 kilograms of CO2 per kilogram of raw materials purchased."
+      }
+    ]
+  },
+  {
+    "id": "BASF-09",
+    "question": "How did BASF's renewable electricity share change from 2023 to 2024?",
+    "expected_answer": "BASF renewable electricity share rose from 20% of total electricity consumption in 2023 to 26% in 2024, an increase of 6 percentage points.",
+    "evidence": [
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 189,
+        "supports": [
+          "2023: 20%",
+          "2024: 26%"
+        ],
+        "source_excerpt": "In 2024, electricity from renewable sources as a share of total electricity consumption rose ... to 26% (2023: 20%)."
+      }
+    ]
+  },
+  {
+    "id": "BASF-10",
+    "question": "What is BASF's 2030 target for specific emissions from purchased raw materials?",
+    "expected_answer": "BASF targets a 15% reduction in specific raw-material-related Scope 3.1 emissions by 2030 versus 2022, reducing intensity from 1.64 to 1.39 kg CO2 per kg raw materials purchased. The target excludes battery materials, services, technical goods, and emissions from BASF trading business.",
+    "evidence": [
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 195,
+        "supports": [
+          "15% reduction by 2030 versus 2022",
+          "1.64 to 1.39 kg CO2 per kg raw materials",
+          "target exclusions"
+        ],
+        "source_excerpt": "Based on the 2018 base year, we want to achieve a 25% reduction in greenhouse gas emissions ... by 2030."
+      }
+    ]
+  },
+  {
+    "id": "BASF-11",
+    "question": "Does BASF report Scope 3 emissions in addition to Scope 1 and Scope 2 for 2024?",
+    "expected_answer": "Yes. In 2024 BASF reported about 92 million metric tons CO2e of Scope 3 emissions in addition to Scope 1 and Scope 2. The report separately gives 17.948 million metric tons CO2e for Scope 1+2 under the corporate carbon-footprint boundary. Scope 3 category 3.1 contributed 52 million metric tons CO2e.",
+    "evidence": [
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 199,
+        "supports": [
+          "Scope 3 around 92 million metric tons CO2e",
+          "Scope 1+2 17.948 million metric tons CO2e",
+          "category 3.1 52 million metric tons CO2e"
+        ],
+        "source_excerpt": "In 2024, our greenhouse gas emissions ... amounted to 17.948 million metric tons of CO2 equivalents."
+      }
+    ]
+  },
+  {
+    "id": "BASF-12",
+    "question": "What is the difference between BASF's 2030 emissions target and its reported 2024 emissions?",
+    "expected_answer": "Using the same target-relevant boundary, BASF reported 17.0 million metric tons CO2e in 2024 and set a 2030 target of 16.4 million metric tons, so the 2024 figure was 0.6 million metric tons above the target level. Do not compare the 17.0 value directly with 17.948 million metric tons, which is reported under a different Scope 1+2 boundary.",
+    "evidence": [
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 195,
+        "supports": [
+          "2024 target-relevant emissions 17.0 million metric tons CO2e",
+          "2030 target 16.4 million metric tons CO2e",
+          "same target boundary"
+        ],
+        "source_excerpt": "Based on the 2018 base year, we want to achieve a 25% reduction in greenhouse gas emissions ... by 2030."
+      },
+      {
+        "document": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+        "pdf_page": 199,
+        "supports": [
+          "17.948 million metric tons under corporate carbon footprint boundary, not interchangeable"
+        ],
+        "source_excerpt": "In 2024, our greenhouse gas emissions ... amounted to 17.948 million metric tons of CO2 equivalents."
+      }
+    ]
+  }
+]

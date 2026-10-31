@@ -1,0 +1,33 @@
+[
+  {
+    "id": "EDGE-01",
+    "scenario": "Unsupported question unrelated to indexed reports",
+    "question": "Who won the 2022 FIFA World Cup?",
+    "expected_behavior": "Abstain and state that the indexed reports do not provide sufficient evidence; do not answer from general knowledge.",
+    "execution": "Manual UI test; inspect the generated response because retrieval may still return weakly related passages."
+  },
+  {
+    "id": "EDGE-02",
+    "scenario": "No retrieved candidates",
+    "expected_behavior": "Return a no-evidence message and do not call Gemini.",
+    "execution": "Covered by the answer pipeline and generator empty-evidence unit tests."
+  },
+  {
+    "id": "EDGE-03",
+    "scenario": "Malformed PDF beside a valid PDF",
+    "expected_behavior": "Log and skip the malformed PDF; continue ingesting the valid PDF.",
+    "execution": "Covered by tests/test_document_parser.py."
+  },
+  {
+    "id": "EDGE-04",
+    "scenario": "Missing FAISS index or chunk metadata",
+    "expected_behavior": "Raise a clear FileNotFoundError identifying the index directory; the UI displays a recoverable error instead of crashing silently.",
+    "execution": "Manually rename or temporarily move data/indexes/esg.index and verify the UI error, then restore it."
+  },
+  {
+    "id": "EDGE-05",
+    "scenario": "Gemini quota/authentication/model error",
+    "expected_behavior": "Show actionable guidance for quota, credentials, or model configuration and preserve the underlying error details in logs/UI.",
+    "execution": "Error-format unit tests; optionally verify with a deliberately invalid local model setting (do not expose the API key)."
+  }
+]
