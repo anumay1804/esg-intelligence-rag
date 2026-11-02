@@ -40,18 +40,29 @@ def _load_questions() -> list[dict[str, Any]]:
 
 
 def _abstained(answer: str) -> bool:
+    text = re.sub(r"\s+", " ", (answer or "").casefold()).strip()
+
+    # An answer that supplies a substantive response should not be
+    # classified as an abstention merely because it notes a missing detail.
+    partial_answer_patterns = (
+        r"\btarget\b.{0,100}\b(?:reduction|reduce|by 20\d{2}|net.zero)\b",
+        r"\b\d+(?:\.\d+)?\s*%\s+(?:reduction|decrease|cut)\b",
+    )
+    if any(re.search(pattern, text) for pattern in partial_answer_patterns):
+        return False
+
     patterns = (
         r"\bcould(?: not|n't) find (?:sufficient|relevant|enough) evidence\b",
         r"\binsufficient evidence\b",
         r"\bnot (?:stated|provided|available|disclosed|specified) in the (?:provided )?(?:documents|reports|evidence|sources)\b",
         r"\bthe (?:provided )?(?:evidence|documents|reports|sources) do not\b",
+        r"\bthe (?:provided )?(?:evidence|documents|reports|sources) does not contain\b",
+        r"\bthe (?:provided )?(?:evidence|documents|reports|sources) does not (?:state|mention|specify|provide|include|identify|indicate|show|establish)\b",
         r"\bunable to (?:determine|confirm|verify|identify|calculate)\b",
         r"\bcannot (?:determine|confirm|verify|identify|calculate)\b",
         r"\bremains unknown\b",
     )
-    text = (answer or "").casefold()
     return any(re.search(pattern, text) for pattern in patterns)
-
 
 def _expected_keywords_found(answer: str, keywords: list[str]) -> list[str]:
     normalized = re.sub(r"\s+", " ", (answer or "").casefold())
@@ -85,14 +96,44 @@ def main() -> int:
     retriever = HybridRetriever()
     reranker = ESGReranker()
     generator = GeminiAnswerGenerator()
+    # Resume from existing results, preserving successful answers.
+    existing_by_id: dict[str, dict[str, Any]] = {}
+    if OUTPUT_FILE.exists():
+        try:
+            previous_results = json.loads(
+                OUTPUT_FILE.read_text(encoding="utf-8")
+            )
+            if isinstance(previous_results, list):
+                existing_by_id = {
+                    str(record.get("question_id")): record
+                    for record in previous_results
+                    if isinstance(record, dict) and record.get("question_id")
+                }
+                print(
+                    f"Loaded {len(existing_by_id)} existing evaluation records."
+                )
+        except (json.JSONDecodeError, OSError) as exc:
+            print(f"Could not load prior results; starting fresh: {exc}")
+
     results: list[dict[str, Any]] = []
 
     for index, item in enumerate(questions, start=1):
+        question_id = str(item.get("id", f"Q{index:02d}"))
+        previous = existing_by_id.get(question_id)
+
+        if previous and previous.get("status") == "success":
+            results.append(previous)
+            print(
+                f"[{index}/{len(questions)}] SKIP | existing successful result | "
+                f"{item['question'].strip()}"
+            )
+            continue
+
         question = item["question"].strip()
         expected_answerable = item.get("expected_answerable")
         started = time.perf_counter()
         record: dict[str, Any] = {
-            "question_id": item.get("id", f"Q{index:02d}"),
+            "question_id": question_id,
             "question": question,
             "expected_answerable": expected_answerable,
             "expected_keywords": item.get("expected_keywords", []),

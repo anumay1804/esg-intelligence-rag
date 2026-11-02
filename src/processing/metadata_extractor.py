@@ -1,4 +1,4 @@
-import re
+﻿import re
 from typing import Any
 
 
@@ -60,11 +60,11 @@ VALUE_PATTERN = re.compile(
     r"%|percent(?:age)?|"
     r"tonnes?(?:\s+of\s+CO2(?:e|eq)?|\s+of\s+carbon)?|"
     r"metric\s+tons?(?:\s+of\s+CO2(?:e|eq)?)?|"
-    r"tCO2e|tCO₂e|CO2e|CO₂e|"
+    r"tCO2e|tCOâ‚‚e|CO2e|COâ‚‚e|"
     r"kg|kilograms?|"
     r"Mt|million\s+tonnes?|"
     r"kWh|MWh|GWh|TWh|"
-    r"m3|m³|cubic\s+met(?:er|re)s?|"
+    r"m3|mÂ³|cubic\s+met(?:er|re)s?|"
     r"lit(?:er|re)s?|"
     r"hectares?|"
     r"employees?|"
@@ -80,6 +80,7 @@ def identify_company(source_file: str) -> str | None:
 
     known_companies = {
         "basf": "BASF",
+        "eastman": "Eastman",
         "dow": "Dow",
         "covestro": "Covestro",
         "lyondellbasell": "LyondellBasell",
@@ -248,3 +249,5 @@ def extract_metadata(chunk: dict[str, Any]) -> dict[str, Any]:
     }
 
     return enriched
+
+

@@ -1,0 +1,1394 @@
+[
+  {
+    "question": "What is BASF's greenhouse gas emissions reduction target for 2030?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 200,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_200:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nBASF Group’s greenhouse gas emissions according to the Greenhouse Gas Protocol\n\nRetrospective                                        Milestones and target years\n\nReduction\n                                                          "
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 201,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_201:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nBASF Group’s greenhouse gas emissions according to the Greenhouse Gas Protocol\n\nRetrospective                                        Milestones and target years\n\nReduction\n                                                          "
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        }
+      ],
+      "elapsed_seconds": 1.1494,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 200,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_200:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nBASF Group’s greenhouse gas emissions according to the Greenhouse Gas Protocol\n\nRetrospective                                        Milestones and target years\n\nReduction\n                                                          "
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 201,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_201:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nBASF Group’s greenhouse gas emissions according to the Greenhouse Gas Protocol\n\nRetrospective                                        Milestones and target years\n\nReduction\n                                                          "
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        }
+      ],
+      "elapsed_seconds": 1.2061,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What were BASF's greenhouse gas emissions in 2024?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 200,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_200:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nBASF Group’s greenhouse gas emissions according to the Greenhouse Gas Protocol\n\nRetrospective                                        Milestones and target years\n\nReduction\n                                                          "
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 201,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_201:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nBASF Group’s greenhouse gas emissions according to the Greenhouse Gas Protocol\n\nRetrospective                                        Milestones and target years\n\nReduction\n                                                          "
+        }
+      ],
+      "elapsed_seconds": 1.3188,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 200,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_200:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nBASF Group’s greenhouse gas emissions according to the Greenhouse Gas Protocol\n\nRetrospective                                        Milestones and target years\n\nReduction\n                                                          "
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 201,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_201:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nBASF Group’s greenhouse gas emissions according to the Greenhouse Gas Protocol\n\nRetrospective                                        Milestones and target years\n\nReduction\n                                                          "
+        }
+      ],
+      "elapsed_seconds": 1.3582,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What is BASF's target for reducing Scope 3.1 emissions by 2030?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 196,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_196:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nconstant at 50 million metric tons of CO2 equivalents by 2030 despite growing production. We have\nrecalculated our base value for our Scope 3.1 target in line with the Greenhouse Gas Protocol Scope 3\nStandard, due to a change in s"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 185,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_185:chunk_2",
+          "text_excerpt": "igh value chemicals is below the values defined by the IEA for 2030.\n\n» For additional information on the analysis of our Scope 1 and Scope 2 target and on compatibility with the goals of the\n  Paris Agreement, see basf.com/corporate_carbon_footprint\n\nAbove and beyond our own production, we take responsibility for emissions along our value chain. T"
+        }
+      ],
+      "elapsed_seconds": 1.0312,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 196,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_196:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nconstant at 50 million metric tons of CO2 equivalents by 2030 despite growing production. We have\nrecalculated our base value for our Scope 3.1 target in line with the Greenhouse Gas Protocol Scope 3\nStandard, due to a change in s"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 185,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_185:chunk_2",
+          "text_excerpt": "igh value chemicals is below the values defined by the IEA for 2030.\n\n» For additional information on the analysis of our Scope 1 and Scope 2 target and on compatibility with the goals of the\n  Paris Agreement, see basf.com/corporate_carbon_footprint\n\nAbove and beyond our own production, we take responsibility for emissions along our value chain. T"
+        }
+      ],
+      "elapsed_seconds": 1.3387,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What percentage of BASF's electricity came from renewable sources in 2024?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 189,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_189:chunk_4",
+          "text_excerpt": "the planned gradual electrification\nof our steam generation and the switch from natural gas-based to electricity-based, low-emission\nproduction processes. Nevertheless, we aim to source more than 60% of our power needs from\nrenewable sources by 2030.\n\nAs regards the transformation of our power supply, we are pursuing a make and buy approach in the\n"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 198,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_198:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nMetrics\n\nEnergy supply\n\nE1-5\n\nOur total energy consumption28 amounted to 75.6 million MWh in 2024. Total energy consumption\nincludes fuel demand for our own energy generation and production plants, plus power and steam\nimports for"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        }
+      ],
+      "elapsed_seconds": 1.1414,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 189,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_189:chunk_4",
+          "text_excerpt": "the planned gradual electrification\nof our steam generation and the switch from natural gas-based to electricity-based, low-emission\nproduction processes. Nevertheless, we aim to source more than 60% of our power needs from\nrenewable sources by 2030.\n\nAs regards the transformation of our power supply, we are pursuing a make and buy approach in the\n"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 198,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_198:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nMetrics\n\nEnergy supply\n\nE1-5\n\nOur total energy consumption28 amounted to 75.6 million MWh in 2024. Total energy consumption\nincludes fuel demand for our own energy generation and production plants, plus power and steam\nimports for"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        }
+      ],
+      "elapsed_seconds": 1.4414,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What was BASF's combined Scope 1 and Scope 2 greenhouse gas emissions in 2024?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 199,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_199:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nCorporate carbon footprint\n\nE1-6\n\nBASF has published a comprehensive corporate carbon footprint every year since 2008. This reports on\nall emissions along the value chain – from raw materials extraction to production and disposal."
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 31,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_31:chunk_4",
+          "text_excerpt": "ility performance. In 2024, the figure was 76%. With the new target, we want to\nsharpen our focus on and gear our measures even more strongly toward suppliers with increased risk in\nterms of sustainability (for more information, see page 301 onward).\n\n1 Unlike the financial indicators specified as well as the Scope 1 and Scope 2 emissions, the sust"
+        }
+      ],
+      "elapsed_seconds": 1.2327,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 199,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_199:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nCorporate carbon footprint\n\nE1-6\n\nBASF has published a comprehensive corporate carbon footprint every year since 2008. This reports on\nall emissions along the value chain – from raw materials extraction to production and disposal."
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 31,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_31:chunk_4",
+          "text_excerpt": "ility performance. In 2024, the figure was 76%. With the new target, we want to\nsharpen our focus on and gear our measures even more strongly toward suppliers with increased risk in\nterms of sustainability (for more information, see page 301 onward).\n\n1 Unlike the financial indicators specified as well as the Scope 1 and Scope 2 emissions, the sust"
+        }
+      ],
+      "elapsed_seconds": 1.4752,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What proportion of BASF's combined Scope 1 and Scope 2 emissions came from Scope 1 in 2024?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 199,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_199:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nCorporate carbon footprint\n\nE1-6\n\nBASF has published a comprehensive corporate carbon footprint every year since 2008. This reports on\nall emissions along the value chain – from raw materials extraction to production and disposal."
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 31,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_31:chunk_4",
+          "text_excerpt": "ility performance. In 2024, the figure was 76%. With the new target, we want to\nsharpen our focus on and gear our measures even more strongly toward suppliers with increased risk in\nterms of sustainability (for more information, see page 301 onward).\n\n1 Unlike the financial indicators specified as well as the Scope 1 and Scope 2 emissions, the sust"
+        }
+      ],
+      "elapsed_seconds": 1.2209,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 186,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_186:chunk_2",
+          "text_excerpt": "Roughly half of BASF’s Scope 1 and Scope 2 emissions are attributable to energy produced to operate\nour plants. Scope 2 emissions can be reduced by up to 3.2 million metric tons of CO2 by 2030 using the\n“renewable energy” lever. Additional emission reductions of up to 0.6 million metric tons of CO2\n(Scope 1) are possible in the period up to 2030 us"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 199,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_199:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nCorporate carbon footprint\n\nE1-6\n\nBASF has published a comprehensive corporate carbon footprint every year since 2008. This reports on\nall emissions along the value chain – from raw materials extraction to production and disposal."
+        }
+      ],
+      "elapsed_seconds": 1.4443,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What proportion of BASF's combined Scope 1 and Scope 2 emissions came from Scope 2 in 2024?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 199,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_199:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nCorporate carbon footprint\n\nE1-6\n\nBASF has published a comprehensive corporate carbon footprint every year since 2008. This reports on\nall emissions along the value chain – from raw materials extraction to production and disposal."
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 31,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_31:chunk_4",
+          "text_excerpt": "ility performance. In 2024, the figure was 76%. With the new target, we want to\nsharpen our focus on and gear our measures even more strongly toward suppliers with increased risk in\nterms of sustainability (for more information, see page 301 onward).\n\n1 Unlike the financial indicators specified as well as the Scope 1 and Scope 2 emissions, the sust"
+        }
+      ],
+      "elapsed_seconds": 1.0321,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 199,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_199:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nCorporate carbon footprint\n\nE1-6\n\nBASF has published a comprehensive corporate carbon footprint every year since 2008. This reports on\nall emissions along the value chain – from raw materials extraction to production and disposal."
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 31,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_31:chunk_4",
+          "text_excerpt": "ility performance. In 2024, the figure was 76%. With the new target, we want to\nsharpen our focus on and gear our measures even more strongly toward suppliers with increased risk in\nterms of sustainability (for more information, see page 301 onward).\n\n1 Unlike the financial indicators specified as well as the Scope 1 and Scope 2 emissions, the sust"
+        }
+      ],
+      "elapsed_seconds": 1.3213,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What were BASF's approximate Scope 3 greenhouse gas emissions in 2024?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 196,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_196:chunk_2",
+          "text_excerpt": "4).\n\nIn the long term, we are striving to reduce Scope 3.1 emissions to an unavoidable minimum by 2050,\nthereby expanding our long-term net-zero target to include these greenhouse gas emissions.\n\nGreenhouse gas emissions of the BASF Group (Scope 3.1)\n\na Scope 3.1, raw materials excluding battery materials, excluding services, technical goods and gr"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 199,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_199:chunk_2",
+          "text_excerpt": "the slight year-on-year increase in production\nvolumes. The share of emissions that were calculated using primary data33 amounted to 21% in the\nbusiness year.\n\nCO2 emissions along the BASF value chain in 2024a\n\nMillion metric tons of CO2 equivalents\n\na According to the Greenhouse Gas Protocol Standard; Scope 1, 2 and 3; reported categories within S"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        }
+      ],
+      "elapsed_seconds": 1.0509,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 196,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_196:chunk_2",
+          "text_excerpt": "4).\n\nIn the long term, we are striving to reduce Scope 3.1 emissions to an unavoidable minimum by 2050,\nthereby expanding our long-term net-zero target to include these greenhouse gas emissions.\n\nGreenhouse gas emissions of the BASF Group (Scope 3.1)\n\na Scope 3.1, raw materials excluding battery materials, excluding services, technical goods and gr"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 199,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_199:chunk_2",
+          "text_excerpt": "the slight year-on-year increase in production\nvolumes. The share of emissions that were calculated using primary data33 amounted to 21% in the\nbusiness year.\n\nCO2 emissions along the BASF value chain in 2024a\n\nMillion metric tons of CO2 equivalents\n\na According to the Greenhouse Gas Protocol Standard; Scope 1, 2 and 3; reported categories within S"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        }
+      ],
+      "elapsed_seconds": 1.4743,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What was BASF's specific Scope 3.1 emissions intensity in 2024?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 0.75,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 196,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_196:chunk_2",
+          "text_excerpt": "4).\n\nIn the long term, we are striving to reduce Scope 3.1 emissions to an unavoidable minimum by 2050,\nthereby expanding our long-term net-zero target to include these greenhouse gas emissions.\n\nGreenhouse gas emissions of the BASF Group (Scope 3.1)\n\na Scope 3.1, raw materials excluding battery materials, excluding services, technical goods and gr"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        }
+      ],
+      "elapsed_seconds": 1.1496,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 0.75,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 196,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_196:chunk_2",
+          "text_excerpt": "4).\n\nIn the long term, we are striving to reduce Scope 3.1 emissions to an unavoidable minimum by 2050,\nthereby expanding our long-term net-zero target to include these greenhouse gas emissions.\n\nGreenhouse gas emissions of the BASF Group (Scope 3.1)\n\na Scope 3.1, raw materials excluding battery materials, excluding services, technical goods and gr"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        }
+      ],
+      "elapsed_seconds": 1.2798,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What reduction in specific Scope 3.1 emissions intensity does BASF target by 2030 compared with 2022?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 196,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_196:chunk_2",
+          "text_excerpt": "4).\n\nIn the long term, we are striving to reduce Scope 3.1 emissions to an unavoidable minimum by 2050,\nthereby expanding our long-term net-zero target to include these greenhouse gas emissions.\n\nGreenhouse gas emissions of the BASF Group (Scope 3.1)\n\na Scope 3.1, raw materials excluding battery materials, excluding services, technical goods and gr"
+        }
+      ],
+      "elapsed_seconds": 1.1787,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 196,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_196:chunk_2",
+          "text_excerpt": "4).\n\nIn the long term, we are striving to reduce Scope 3.1 emissions to an unavoidable minimum by 2050,\nthereby expanding our long-term net-zero target to include these greenhouse gas emissions.\n\nGreenhouse gas emissions of the BASF Group (Scope 3.1)\n\na Scope 3.1, raw materials excluding battery materials, excluding services, technical goods and gr"
+        }
+      ],
+      "elapsed_seconds": 1.5472,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What were BASF's specific Scope 3.1 emissions intensity values in 2022 and the 2030 target year?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 0.8,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 196,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_196:chunk_2",
+          "text_excerpt": "4).\n\nIn the long term, we are striving to reduce Scope 3.1 emissions to an unavoidable minimum by 2050,\nthereby expanding our long-term net-zero target to include these greenhouse gas emissions.\n\nGreenhouse gas emissions of the BASF Group (Scope 3.1)\n\na Scope 3.1, raw materials excluding battery materials, excluding services, technical goods and gr"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        }
+      ],
+      "elapsed_seconds": 1.0803,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 0.8,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 196,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_196:chunk_2",
+          "text_excerpt": "4).\n\nIn the long term, we are striving to reduce Scope 3.1 emissions to an unavoidable minimum by 2050,\nthereby expanding our long-term net-zero target to include these greenhouse gas emissions.\n\nGreenhouse gas emissions of the BASF Group (Scope 3.1)\n\na Scope 3.1, raw materials excluding battery materials, excluding services, technical goods and gr"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        }
+      ],
+      "elapsed_seconds": 1.2552,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What is BASF's target-relevant Scope 3.1 emissions volume for 2030?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 185,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_185:chunk_2",
+          "text_excerpt": "igh value chemicals is below the values defined by the IEA for 2030.\n\n» For additional information on the analysis of our Scope 1 and Scope 2 target and on compatibility with the goals of the\n  Paris Agreement, see basf.com/corporate_carbon_footprint\n\nAbove and beyond our own production, we take responsibility for emissions along our value chain. T"
+        }
+      ],
+      "elapsed_seconds": 0.974,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 185,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_185:chunk_2",
+          "text_excerpt": "igh value chemicals is below the values defined by the IEA for 2030.\n\n» For additional information on the analysis of our Scope 1 and Scope 2 target and on compatibility with the goals of the\n  Paris Agreement, see basf.com/corporate_carbon_footprint\n\nAbove and beyond our own production, we take responsibility for emissions along our value chain. T"
+        }
+      ],
+      "elapsed_seconds": 1.3923,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What percentage of BASF's electricity consumption came from renewable sources in 2023 and 2024?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 0.5,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 198,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_198:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nMetrics\n\nEnergy supply\n\nE1-5\n\nOur total energy consumption28 amounted to 75.6 million MWh in 2024. Total energy consumption\nincludes fuel demand for our own energy generation and production plants, plus power and steam\nimports for"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 189,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_189:chunk_4",
+          "text_excerpt": "the planned gradual electrification\nof our steam generation and the switch from natural gas-based to electricity-based, low-emission\nproduction processes. Nevertheless, we aim to source more than 60% of our power needs from\nrenewable sources by 2030.\n\nAs regards the transformation of our power supply, we are pursuing a make and buy approach in the\n"
+        }
+      ],
+      "elapsed_seconds": 1.0346,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 0.5,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 198,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_198:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nMetrics\n\nEnergy supply\n\nE1-5\n\nOur total energy consumption28 amounted to 75.6 million MWh in 2024. Total energy consumption\nincludes fuel demand for our own energy generation and production plants, plus power and steam\nimports for"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 189,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_189:chunk_4",
+          "text_excerpt": "the planned gradual electrification\nof our steam generation and the switch from natural gas-based to electricity-based, low-emission\nproduction processes. Nevertheless, we aim to source more than 60% of our power needs from\nrenewable sources by 2030.\n\nAs regards the transformation of our power supply, we are pursuing a make and buy approach in the\n"
+        }
+      ],
+      "elapsed_seconds": 1.0506,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What percentage of its electricity needs does BASF aim to meet from renewable sources by 2030?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 189,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_189:chunk_4",
+          "text_excerpt": "the planned gradual electrification\nof our steam generation and the switch from natural gas-based to electricity-based, low-emission\nproduction processes. Nevertheless, we aim to source more than 60% of our power needs from\nrenewable sources by 2030.\n\nAs regards the transformation of our power supply, we are pursuing a make and buy approach in the\n"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 185,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_185:chunk_2",
+          "text_excerpt": "igh value chemicals is below the values defined by the IEA for 2030.\n\n» For additional information on the analysis of our Scope 1 and Scope 2 target and on compatibility with the goals of the\n  Paris Agreement, see basf.com/corporate_carbon_footprint\n\nAbove and beyond our own production, we take responsibility for emissions along our value chain. T"
+        }
+      ],
+      "elapsed_seconds": 1.2442,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 189,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_189:chunk_4",
+          "text_excerpt": "the planned gradual electrification\nof our steam generation and the switch from natural gas-based to electricity-based, low-emission\nproduction processes. Nevertheless, we aim to source more than 60% of our power needs from\nrenewable sources by 2030.\n\nAs regards the transformation of our power supply, we are pursuing a make and buy approach in the\n"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 185,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_185:chunk_2",
+          "text_excerpt": "igh value chemicals is below the values defined by the IEA for 2030.\n\n» For additional information on the analysis of our Scope 1 and Scope 2 target and on compatibility with the goals of the\n  Paris Agreement, see basf.com/corporate_carbon_footprint\n\nAbove and beyond our own production, we take responsibility for emissions along our value chain. T"
+        }
+      ],
+      "elapsed_seconds": 1.2245,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "How much does BASF aim to reduce Scope 1 and Scope 2 emissions from the 2018 baseline by 2030?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 186,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_186:chunk_2",
+          "text_excerpt": "Roughly half of BASF’s Scope 1 and Scope 2 emissions are attributable to energy produced to operate\nour plants. Scope 2 emissions can be reduced by up to 3.2 million metric tons of CO2 by 2030 using the\n“renewable energy” lever. Additional emission reductions of up to 0.6 million metric tons of CO2\n(Scope 1) are possible in the period up to 2030 us"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nScope 1 and 2\nBased on the 2018 base year, we want to achieve a 25% reduction in greenhouse gas emissions from\nour production processes (Scope 1) and our energy purchases (Scope 2) by 2030.23 Our target focuses\non emissions caused"
+        }
+      ],
+      "elapsed_seconds": 1.2789,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 186,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_186:chunk_2",
+          "text_excerpt": "Roughly half of BASF’s Scope 1 and Scope 2 emissions are attributable to energy produced to operate\nour plants. Scope 2 emissions can be reduced by up to 3.2 million metric tons of CO2 by 2030 using the\n“renewable energy” lever. Additional emission reductions of up to 0.6 million metric tons of CO2\n(Scope 1) are possible in the period up to 2030 us"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nScope 1 and 2\nBased on the 2018 base year, we want to achieve a 25% reduction in greenhouse gas emissions from\nour production processes (Scope 1) and our energy purchases (Scope 2) by 2030.23 Our target focuses\non emissions caused"
+        }
+      ],
+      "elapsed_seconds": 1.2609,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What are the main differences between BASF's Scope 1, Scope 2, and Scope 3 emissions?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 0.8,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 186,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_186:chunk_2",
+          "text_excerpt": "Roughly half of BASF’s Scope 1 and Scope 2 emissions are attributable to energy produced to operate\nour plants. Scope 2 emissions can be reduced by up to 3.2 million metric tons of CO2 by 2030 using the\n“renewable energy” lever. Additional emission reductions of up to 0.6 million metric tons of CO2\n(Scope 1) are possible in the period up to 2030 us"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 203,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_203:chunk_4",
+          "text_excerpt": "BASF’s Scope 1 and Scope 2 emissions. Emissions from production\n                                                              sites are captured directly using a database query.\n\nInternal carbon pricing\n\nE1-8\n\nWe use shadow prices in the form of price projections to factor in the costs of CO2 emissions when\nassessing investment projects. These shad"
+        }
+      ],
+      "elapsed_seconds": 1.0716,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 0.8,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 186,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_186:chunk_2",
+          "text_excerpt": "Roughly half of BASF’s Scope 1 and Scope 2 emissions are attributable to energy produced to operate\nour plants. Scope 2 emissions can be reduced by up to 3.2 million metric tons of CO2 by 2030 using the\n“renewable energy” lever. Additional emission reductions of up to 0.6 million metric tons of CO2\n(Scope 1) are possible in the period up to 2030 us"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 203,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_203:chunk_4",
+          "text_excerpt": "BASF’s Scope 1 and Scope 2 emissions. Emissions from production\n                                                              sites are captured directly using a database query.\n\nInternal carbon pricing\n\nE1-8\n\nWe use shadow prices in the form of price projections to factor in the costs of CO2 emissions when\nassessing investment projects. These shad"
+        }
+      ],
+      "elapsed_seconds": 1.2793,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What was BASF's quarterly revenue in the fourth quarter of 2024?",
+    "expected_answerable": false,
+    "hybrid": {
+      "hit_at_5": 0,
+      "mrr": 0.0,
+      "keyword_coverage": 0.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 467,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_467:chunk_1",
+          "text_excerpt": "About This Report         Combined Management’s Report       Consolidated Financial Statements          Further Information\n\nAt its meeting on April 24, 2024, the Audit Committee addressed the BASF Group’s Quarterly Statement\nfor the first quarter of 2024, which was due for publication, the internal risk management system and the\nEHS audits at the "
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 359,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_359:chunk_3",
+          "text_excerpt": "898         16,204\n\nFungicides                                                                                   3,014           3,047\n\nHerbicides                                                                                   2,965           3,380\n\nInsecticides                                                                                  1,10"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 158,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_158:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nshareholding of 54.5% in the enlarged Harbour company (BASF share: 39.6%). With this divestiture,\nBASF took the decisive step toward achieving final separation from the oil and gas business (see\npage 33). Wintershall Dea contribut"
+        }
+      ],
+      "elapsed_seconds": 1.1714,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 0,
+      "mrr": 0.0,
+      "keyword_coverage": 0.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 467,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_467:chunk_1",
+          "text_excerpt": "About This Report         Combined Management’s Report       Consolidated Financial Statements          Further Information\n\nAt its meeting on April 24, 2024, the Audit Committee addressed the BASF Group’s Quarterly Statement\nfor the first quarter of 2024, which was due for publication, the internal risk management system and the\nEHS audits at the "
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 162,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_162:chunk_2",
+          "text_excerpt": "in our\nmethodology manual. There is currently no general quantitative scientific framework for the steering of a\nproduct portfolio based on business performance and sustainability contribution that companies could\nuse as a guide when setting targets.\n\nIn 2024, BASF sales revenue1 from Sustainable-Future Solutions products came to 46.3% (2023: 41.4%"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 359,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_359:chunk_3",
+          "text_excerpt": "898         16,204\n\nFungicides                                                                                   3,014           3,047\n\nHerbicides                                                                                   2,965           3,380\n\nInsecticides                                                                                  1,10"
+        }
+      ],
+      "elapsed_seconds": 1.0601,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What was BASF's closing stock price on December 31, 2024?",
+    "expected_answerable": false,
+    "hybrid": {
+      "hit_at_5": 0,
+      "mrr": 0.0,
+      "keyword_coverage": 0.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 408,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_408:chunk_1",
+          "text_excerpt": "About This Report         Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nDecember 31, 2024. The capital market compensates for this lack of fungibility with yield premiums\ndepending on maturity.\n\nPlan assets as of the balance sheet date included securities issued by BASF Group companies valued at\n€"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 394,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_394:chunk_1",
+          "text_excerpt": "About This Report         Combined Management’s Report      Consolidated Financial Statements          Further Information\n\n18 Capital, reserves and retained earnings\n\nSubscribed capital\n\nBASF SE has only issued fully paid-up registered shares with no par value. There are no preferential\nrights or other restrictions.\n\nThe subscribed capital of BASF"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 366,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_366:chunk_3",
+          "text_excerpt": "ies.\n\nIncome from non-integral companies accounted for using the equity method increased by\n€765 million in 2024, mainly due to the gain on the disposal of Wintershall Dea's E&P business to\nHarbour Energy in the amount of €390 million (before taxes).\n\nThe investment in Harbour Energy was initially recorded at the share’s closing rate on\nSeptember 3"
+        }
+      ],
+      "elapsed_seconds": 1.0335,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 0,
+      "mrr": 0.0,
+      "keyword_coverage": 0.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 408,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_408:chunk_1",
+          "text_excerpt": "About This Report         Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nDecember 31, 2024. The capital market compensates for this lack of fungibility with yield premiums\ndepending on maturity.\n\nPlan assets as of the balance sheet date included securities issued by BASF Group companies valued at\n€"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 394,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_394:chunk_1",
+          "text_excerpt": "About This Report         Combined Management’s Report      Consolidated Financial Statements          Further Information\n\n18 Capital, reserves and retained earnings\n\nSubscribed capital\n\nBASF SE has only issued fully paid-up registered shares with no par value. There are no preferential\nrights or other restrictions.\n\nThe subscribed capital of BASF"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 36,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_36:chunk_2",
+          "text_excerpt": "ash\nconsideration totaling $1.78 billion (BASF share: $1.29 billion), including a purchase price adjustment,\nand new shares issued by Harbour Energy equating to a total shareholding of 54.5% in the enlarged\nHarbour Energy company (BASF share: 39.6%).\n\nSince completion of the transaction, both the shareholding in Wintershall Dea, which now only comp"
+        }
+      ],
+      "elapsed_seconds": 1.1343,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What is the personal telephone number of BASF's chief executive officer?",
+    "expected_answerable": false,
+    "hybrid": {
+      "hit_at_5": 0,
+      "mrr": 0.0,
+      "keyword_coverage": 0.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 114,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_114:chunk_3",
+          "text_excerpt": "a\n                   Kamieth        Elvermann      Heinz            Kothari         Kothrade        Scharpwinkel\n Member of the       2017           2023           2011           2024           2023           2024\n Board of Executive\n Directors since\n\nPosition as of         Chairman of the  Member of the   Member of the   Member of the   Member of "
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 466,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_466:chunk_4",
+          "text_excerpt": "oard of Executive\nDirectors present (executive session). The chair of the Audit Committee also maintained regular contact\nwith the auditor between meetings, in particular regarding the progress of the annual audit, and reported\nback to the committee.\n\nAt the meeting on February 20, 2024, the auditor reported in detail on its audits of BASF SE’s Ind"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 90,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_90:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\n– The Chief Compliance Officer (CCO) manages the implementation of our Compliance Management\n  System, supported by compliance officers worldwide. The CCO reports regularly to the Board of\n  Executive Directors on the status of im"
+        }
+      ],
+      "elapsed_seconds": 1.0199,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 0,
+      "mrr": 0.0,
+      "keyword_coverage": 0.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 114,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_114:chunk_3",
+          "text_excerpt": "a\n                   Kamieth        Elvermann      Heinz            Kothari         Kothrade        Scharpwinkel\n Member of the       2017           2023           2011           2024           2023           2024\n Board of Executive\n Directors since\n\nPosition as of         Chairman of the  Member of the   Member of the   Member of the   Member of "
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 318,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_318:chunk_2",
+          "text_excerpt": "o follow these principles. The Audit Committee established by the\nSupervisory Board checks the effectiveness of the compliance management system as part of its\nmonitoring activities for the company’s internal control and risk management system.\n\nG1-3\n\nBASF’s Chief Compliance Officer (CCO) reports directly to the Chairman of the Board of Executive\nD"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 273,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_273:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nThe head of our legal and compliance organization also acts as Chief Human Rights Officer, who\noversees the overarching risk management system and reports regularly to the Board of Executive\nDirectors and the Audit Committee on hu"
+        }
+      ],
+      "elapsed_seconds": 1.3825,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What will BASF's exact greenhouse gas emissions be in 2035?",
+    "expected_answerable": false,
+    "hybrid": {
+      "hit_at_5": 0,
+      "mrr": 0.0,
+      "keyword_coverage": 0.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 200,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_200:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nBASF Group’s greenhouse gas emissions according to the Greenhouse Gas Protocol\n\nRetrospective                                        Milestones and target years\n\nReduction\n                                                          "
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 201,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_201:chunk_1",
+          "text_excerpt": "At a Glance           Combined Management’s Report      Consolidated Financial Statements          Further Information\n\nBASF Group’s greenhouse gas emissions according to the Greenhouse Gas Protocol\n\nRetrospective                                        Milestones and target years\n\nReduction\n                                                          "
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        }
+      ],
+      "elapsed_seconds": 1.0976,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 0,
+      "mrr": 0.0,
+      "keyword_coverage": 0.0,
+      "top_passages": [
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_2",
+          "text_excerpt": "e 2 (excluding the sale of energy to third parties). The target includes greenhouse gases according to the Greenhouse Gas Protocol, which are\n    converted into CO2 equivalents (CO2e).\n b The figure for 2023 has been adjusted to reflect updated data.\n\nIn 2024, the BASF Group’s emissions from production and energy purchases23 amounted to 17.0 millio"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 195,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_195:chunk_3",
+          "text_excerpt": "specific Scope 3.1 emissions from 1.64 kilograms of CO2\nper kilogram of raw materials purchased in the base year 2022 to 1.39 kilograms in the target year\n2030.25 Through our commitment, we aim to keep our target-relevant Scope 3.1 emissions roughly\n\n23 Scope 1 and Scope 2 (excluding the sale of energy to third parties). The emissions account for 9"
+        },
+        {
+          "source_file": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf",
+          "page": 196,
+          "chunk_id": "BASF SE - 2024 - BASF Report (SustainabilityReports.com).pdf:page_196:chunk_2",
+          "text_excerpt": "4).\n\nIn the long term, we are striving to reduce Scope 3.1 emissions to an unavoidable minimum by 2050,\nthereby expanding our long-term net-zero target to include these greenhouse gas emissions.\n\nGreenhouse gas emissions of the BASF Group (Scope 3.1)\n\na Scope 3.1, raw materials excluding battery materials, excluding services, technical goods and gr"
+        }
+      ],
+      "elapsed_seconds": 1.1839,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What is Eastman's absolute Scope 1 and Scope 2 emissions reduction target, and by what year?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 0.5,
+      "keyword_coverage": 0.75,
+      "top_passages": [
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_2",
+          "text_excerpt": "low-to-zero carbon technologies for generating process heat and reducing process emissions — projects that are moving steadily but are time-intensive to execute at our heavily integrated sites.\n\nThrough 2024, Eastman has reduced our absolute Scope 1 and 2 (market-based) greenhouse gas emissions by 17.4%, measuring from our 2017 base year. Our resta"
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_1",
+          "text_excerpt": "Summary       Strategy      Governance        Circularity       Climate       Society      Progress\nGOALS AND PROGRESS\n2024\n\nGoal                                        Progress details\n\nMitigating climate change\n\nEastman is following a definitive climate strategy, and we are committed to decarbonizing operations. We have updated our climate goals "
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 33,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_33:chunk_3",
+          "text_excerpt": "governance structure with a steering team of executive\n emissions in our operations through transformational        progress, we have a target of achieving a 30%\n\nreduce emissions, such as carbon capture and use.                                                                                                                                  leaders."
+        }
+      ],
+      "elapsed_seconds": 1.0112,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 0.5,
+      "keyword_coverage": 0.75,
+      "top_passages": [
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_2",
+          "text_excerpt": "low-to-zero carbon technologies for generating process heat and reducing process emissions — projects that are moving steadily but are time-intensive to execute at our heavily integrated sites.\n\nThrough 2024, Eastman has reduced our absolute Scope 1 and 2 (market-based) greenhouse gas emissions by 17.4%, measuring from our 2017 base year. Our resta"
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_1",
+          "text_excerpt": "Summary       Strategy      Governance        Circularity       Climate       Society      Progress\nGOALS AND PROGRESS\n2024\n\nGoal                                        Progress details\n\nMitigating climate change\n\nEastman is following a definitive climate strategy, and we are committed to decarbonizing operations. We have updated our climate goals "
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 33,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_33:chunk_3",
+          "text_excerpt": "governance structure with a steering team of executive\n emissions in our operations through transformational        progress, we have a target of achieving a 30%\n\nreduce emissions, such as carbon capture and use.                                                                                                                                  leaders."
+        }
+      ],
+      "elapsed_seconds": 1.4719,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What baseline year does Eastman use for its 30% Scope 1 and Scope 2 emissions reduction target?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 0.2,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 33,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_33:chunk_3",
+          "text_excerpt": "governance structure with a steering team of executive\n emissions in our operations through transformational        progress, we have a target of achieving a 30%\n\nreduce emissions, such as carbon capture and use.                                                                                                                                  leaders."
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_1",
+          "text_excerpt": "Summary       Strategy      Governance        Circularity       Climate       Society      Progress\nGOALS AND PROGRESS\n2024\n\nGoal                                        Progress details\n\nMitigating climate change\n\nEastman is following a definitive climate strategy, and we are committed to decarbonizing operations. We have updated our climate goals "
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_2",
+          "text_excerpt": "low-to-zero carbon technologies for generating process heat and reducing process emissions — projects that are moving steadily but are time-intensive to execute at our heavily integrated sites.\n\nThrough 2024, Eastman has reduced our absolute Scope 1 and 2 (market-based) greenhouse gas emissions by 17.4%, measuring from our 2017 base year. Our resta"
+        }
+      ],
+      "elapsed_seconds": 1.0922,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 0.2,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 33,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_33:chunk_3",
+          "text_excerpt": "governance structure with a steering team of executive\n emissions in our operations through transformational        progress, we have a target of achieving a 30%\n\nreduce emissions, such as carbon capture and use.                                                                                                                                  leaders."
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_1",
+          "text_excerpt": "Summary       Strategy      Governance        Circularity       Climate       Society      Progress\nGOALS AND PROGRESS\n2024\n\nGoal                                        Progress details\n\nMitigating climate change\n\nEastman is following a definitive climate strategy, and we are committed to decarbonizing operations. We have updated our climate goals "
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_2",
+          "text_excerpt": "low-to-zero carbon technologies for generating process heat and reducing process emissions — projects that are moving steadily but are time-intensive to execute at our heavily integrated sites.\n\nThrough 2024, Eastman has reduced our absolute Scope 1 and 2 (market-based) greenhouse gas emissions by 17.4%, measuring from our 2017 base year. Our resta"
+        }
+      ],
+      "elapsed_seconds": 1.1712,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What is Eastman's long-term operational climate goal?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 0.5,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_2",
+          "text_excerpt": "low-to-zero carbon technologies for generating process heat and reducing process emissions — projects that are moving steadily but are time-intensive to execute at our heavily integrated sites.\n\nThrough 2024, Eastman has reduced our absolute Scope 1 and 2 (market-based) greenhouse gas emissions by 17.4%, measuring from our 2017 base year. Our resta"
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_1",
+          "text_excerpt": "Summary       Strategy      Governance        Circularity       Climate       Society      Progress\nGOALS AND PROGRESS\n2024\n\nGoal                                        Progress details\n\nMitigating climate change\n\nEastman is following a definitive climate strategy, and we are committed to decarbonizing operations. We have updated our climate goals "
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 33,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_33:chunk_3",
+          "text_excerpt": "governance structure with a steering team of executive\n emissions in our operations through transformational        progress, we have a target of achieving a 30%\n\nreduce emissions, such as carbon capture and use.                                                                                                                                  leaders."
+        }
+      ],
+      "elapsed_seconds": 0.806,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 0.5,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_2",
+          "text_excerpt": "low-to-zero carbon technologies for generating process heat and reducing process emissions — projects that are moving steadily but are time-intensive to execute at our heavily integrated sites.\n\nThrough 2024, Eastman has reduced our absolute Scope 1 and 2 (market-based) greenhouse gas emissions by 17.4%, measuring from our 2017 base year. Our resta"
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_1",
+          "text_excerpt": "Summary       Strategy      Governance        Circularity       Climate       Society      Progress\nGOALS AND PROGRESS\n2024\n\nGoal                                        Progress details\n\nMitigating climate change\n\nEastman is following a definitive climate strategy, and we are committed to decarbonizing operations. We have updated our climate goals "
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 33,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_33:chunk_3",
+          "text_excerpt": "governance structure with a steering team of executive\n emissions in our operations through transformational        progress, we have a target of achieving a 30%\n\nreduce emissions, such as carbon capture and use.                                                                                                                                  leaders."
+        }
+      ],
+      "elapsed_seconds": 1.6246,
+      "candidate_count": 20
+    }
+  },
+  {
+    "question": "What approaches does Eastman plan to use to reach net-zero operations by 2050?",
+    "expected_answerable": true,
+    "hybrid": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 32,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_32:chunk_1",
+          "text_excerpt": "Summary       Strategy      Governance        Circularity      Climate       Society       Progress\nMitigating\nclimate change\n\nGovernance\nEastman’s climate strategy and goals are guided by our climate policy  and\nmanaged through our corporate sustainability governance structure. That\nincludes a decarbonization platform, environmental impact sub-cou"
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Annual Report (SustainabilityReports.com).pdf",
+          "page": 11,
+          "chunk_id": "Eastman Chemical Co - 2025 - Annual Report (SustainabilityReports.com).pdf:page_11:chunk_3",
+          "text_excerpt": "emissions by 30 percent by 2035, measured from the Company's 2017 baseline year, in order to achieve net-zero operations by 2050, and to innovate to\nprovide products that enable energy savings and GHG emissions reductions to customers and end-users.\n\nEastman focuses on the triple challenge of climate change, plastic waste, and a growing population "
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_1",
+          "text_excerpt": "Summary       Strategy      Governance        Circularity       Climate       Society      Progress\nGOALS AND PROGRESS\n2024\n\nGoal                                        Progress details\n\nMitigating climate change\n\nEastman is following a definitive climate strategy, and we are committed to decarbonizing operations. We have updated our climate goals "
+        }
+      ],
+      "elapsed_seconds": 1.0754,
+      "candidate_count": 20
+    },
+    "graph_assisted": {
+      "hit_at_5": 1,
+      "mrr": 1.0,
+      "keyword_coverage": 1.0,
+      "top_passages": [
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 32,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_32:chunk_1",
+          "text_excerpt": "Summary       Strategy      Governance        Circularity      Climate       Society       Progress\nMitigating\nclimate change\n\nGovernance\nEastman’s climate strategy and goals are guided by our climate policy  and\nmanaged through our corporate sustainability governance structure. That\nincludes a decarbonization platform, environmental impact sub-cou"
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Annual Report (SustainabilityReports.com).pdf",
+          "page": 11,
+          "chunk_id": "Eastman Chemical Co - 2025 - Annual Report (SustainabilityReports.com).pdf:page_11:chunk_3",
+          "text_excerpt": "emissions by 30 percent by 2035, measured from the Company's 2017 baseline year, in order to achieve net-zero operations by 2050, and to innovate to\nprovide products that enable energy savings and GHG emissions reductions to customers and end-users.\n\nEastman focuses on the triple challenge of climate change, plastic waste, and a growing population "
+        },
+        {
+          "source_file": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+          "page": 57,
+          "chunk_id": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf:page_57:chunk_1",
+          "text_excerpt": "Summary       Strategy      Governance        Circularity       Climate       Society      Progress\nGOALS AND PROGRESS\n2024\n\nGoal                                        Progress details\n\nMitigating climate change\n\nEastman is following a definitive climate strategy, and we are committed to decarbonizing operations. We have updated our climate goals "
+        }
+      ],
+      "elapsed_seconds": 1.1403,
+      "candidate_count": 20
+    }
+  }
+]

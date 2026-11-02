@@ -225,5 +225,73 @@
         "source_excerpt": "In 2024, our greenhouse gas emissions ... amounted to 17.948 million metric tons of CO2 equivalents."
       }
     ]
+  },
+  {
+    "id": "EASTMAN-01",
+    "question": "What is Eastman's absolute Scope 1 and Scope 2 emissions reduction target, and by what year?",
+    "expected_answer": "Eastman targets a 30% reduction in absolute Scope 1 and Scope 2 greenhouse gas emissions by 2035, measured against its 2017 baseline.",
+    "evidence": [
+      {
+        "document": "Eastman Chemical Co - 2025 - Annual Report (SustainabilityReports.com).pdf",
+        "pdf_page": 11,
+        "supports": [
+          "30% reduction in absolute Scope 1 and Scope 2 emissions",
+          "2035 target year",
+          "2017 baseline"
+        ],
+        "source_excerpt": "emissions by 30 percent by 2035, measured from the Company's 2017 baseline year"
+      }
+    ]
+  },
+  {
+    "id": "EASTMAN-02",
+    "question": "What baseline year does Eastman use for its 30% Scope 1 and Scope 2 emissions reduction target?",
+    "expected_answer": "Eastman uses 2017 as the baseline year for its target to reduce absolute Scope 1 and Scope 2 emissions by 30% by 2035.",
+    "evidence": [
+      {
+        "document": "Eastman Chemical Co - 2025 - Annual Report (SustainabilityReports.com).pdf",
+        "pdf_page": 11,
+        "supports": [
+          "2017 baseline year",
+          "30% reduction target",
+          "2035 target year"
+        ],
+        "source_excerpt": "measured from the Company's 2017 baseline year"
+      }
+    ]
+  },
+  {
+    "id": "EASTMAN-03",
+    "question": "What is Eastman's long-term operational climate goal?",
+    "expected_answer": "Eastman's long-term climate goal is to achieve net-zero operations by 2050.",
+    "evidence": [
+      {
+        "document": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+        "pdf_page": 32,
+        "supports": [
+          "net-zero operations goal",
+          "2050 target year"
+        ],
+        "source_excerpt": "Our sights are set on net-zero operations by 2050."
+      }
+    ]
+  },
+  {
+    "id": "EASTMAN-04",
+    "question": "What approaches does Eastman plan to use to reach net-zero operations by 2050?",
+    "expected_answer": "Eastman plans to work toward net-zero operations through energy efficiency, process transformation, increased use of renewable energy, and low-carbon technologies.",
+    "evidence": [
+      {
+        "document": "Eastman Chemical Co - 2025 - Sustainability Report (SustainabilityReports.com).pdf",
+        "pdf_page": 32,
+        "supports": [
+          "energy efficiency",
+          "process transformation",
+          "increased use of renewable energy",
+          "low-carbon technologies"
+        ],
+        "source_excerpt": "We plan to get there through energy efficiency, process transformation, increased use of renewable energy"
+      }
+    ]
   }
 ]

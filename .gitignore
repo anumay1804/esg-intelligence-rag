@@ -1,28 +1,40 @@
+# Secrets - never upload API keys
 .env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python environments
 .venv/
 venv/
+myenv/
 __pycache__/
 *.py[cod]
 .pytest_cache/
-.streamlit/
-data/raw/*.pdf
-data/processed/*
-!data/processed/.gitkeep
-data/indexes/*
-!data/indexes/.gitkeep
-artifacts/*
-!artifacts/.gitkeep
-.DS_Store
 
-# Runtime logs and generated evaluation outputs
-logs/*.log
-evaluation/answer_evaluation_results.json
-evaluation/evaluation_results.json
-evaluation/citation_support_results.json
-evaluation/graph_comparison_results.json
+# Backup files
+*.bak
+*.bak.*
+*.backup
+*.pre_*
+*.before_*
+app.before_*.py
+app.py.pre_*.bak
 
-# Temporary evaluation backups
-evaluation/*.backup.json
-evaluation/*.retry_working.json
+# Logs
+logs/
+*.log
+
+# Original source PDFs remain local
+data/raw/
+
+# Evaluation backups and temporary results
+evaluation/archive/
+evaluation/*backup*
 evaluation/*.bak
-evaluation/archive/*.json
+evaluation/*.retry_working.json
+evaluation/*.pre_*
+evaluation/*.before_*
+
+# Local debugging scripts
+debug_*.py

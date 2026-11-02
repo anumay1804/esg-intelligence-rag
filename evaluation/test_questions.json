@@ -1,103 +1,225 @@
-
 [
   {
     "question": "What is BASF's greenhouse gas emissions reduction target for 2030?",
-    "expected_keywords": ["25%", "2030", "2018", "Scope 1", "Scope 2"],
+    "expected_keywords": [
+      "25%",
+      "2030",
+      "2018",
+      "Scope 1",
+      "Scope 2"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What were BASF's greenhouse gas emissions in 2024?",
-    "expected_keywords": ["2024", "CO2", "emissions"],
+    "expected_keywords": [
+      "2024",
+      "CO2",
+      "emissions"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What is BASF's target for reducing Scope 3.1 emissions by 2030?",
-    "expected_keywords": ["Scope 3.1", "15%", "2030", "2022"],
+    "expected_keywords": [
+      "Scope 3.1",
+      "15%",
+      "2030",
+      "2022"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What percentage of BASF's electricity came from renewable sources in 2024?",
-    "expected_keywords": ["renewable", "electricity", "2024"],
+    "expected_keywords": [
+      "renewable",
+      "electricity",
+      "2024"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What was BASF's combined Scope 1 and Scope 2 greenhouse gas emissions in 2024?",
-    "expected_keywords": ["17.948", "million", "Scope 1", "Scope 2"],
+    "expected_keywords": [
+      "17.948",
+      "million",
+      "Scope 1",
+      "Scope 2"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What proportion of BASF's combined Scope 1 and Scope 2 emissions came from Scope 1 in 2024?",
-    "expected_keywords": ["Scope 1", "87%", "2024"],
+    "expected_keywords": [
+      "Scope 1",
+      "87%",
+      "2024"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What proportion of BASF's combined Scope 1 and Scope 2 emissions came from Scope 2 in 2024?",
-    "expected_keywords": ["Scope 2", "13%", "2024"],
+    "expected_keywords": [
+      "Scope 2",
+      "13%",
+      "2024"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What were BASF's approximate Scope 3 greenhouse gas emissions in 2024?",
-    "expected_keywords": ["Scope 3", "92 million", "CO2"],
+    "expected_keywords": [
+      "Scope 3",
+      "92 million",
+      "CO2"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What was BASF's specific Scope 3.1 emissions intensity in 2024?",
-    "expected_keywords": ["Scope 3.1", "1.58", "kg", "raw materials"],
+    "expected_keywords": [
+      "Scope 3.1",
+      "1.58",
+      "kg",
+      "raw materials"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What reduction in specific Scope 3.1 emissions intensity does BASF target by 2030 compared with 2022?",
-    "expected_keywords": ["15%", "2030", "2022", "Scope 3.1"],
+    "expected_keywords": [
+      "15%",
+      "2030",
+      "2022",
+      "Scope 3.1"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What were BASF's specific Scope 3.1 emissions intensity values in 2022 and the 2030 target year?",
-    "expected_keywords": ["1.64", "1.39", "2022", "2030", "kg"],
+    "expected_keywords": [
+      "1.64",
+      "1.39",
+      "2022",
+      "2030",
+      "kg"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What is BASF's target-relevant Scope 3.1 emissions volume for 2030?",
-    "expected_keywords": ["50 million", "Scope 3.1", "2030"],
+    "expected_keywords": [
+      "50 million",
+      "Scope 3.1",
+      "2030"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What percentage of BASF's electricity consumption came from renewable sources in 2023 and 2024?",
-    "expected_keywords": ["20%", "26%", "2023", "2024"],
+    "expected_keywords": [
+      "20%",
+      "26%",
+      "2023",
+      "2024"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What percentage of its electricity needs does BASF aim to meet from renewable sources by 2030?",
-    "expected_keywords": ["60%", "2030", "renewable"],
+    "expected_keywords": [
+      "60%",
+      "2030",
+      "renewable"
+    ],
     "expected_answerable": true
   },
   {
     "question": "How much does BASF aim to reduce Scope 1 and Scope 2 emissions from the 2018 baseline by 2030?",
-    "expected_keywords": ["25%", "2018", "2030", "21.9", "16.4"],
+    "expected_keywords": [
+      "25%",
+      "2018",
+      "2030",
+      "21.9",
+      "16.4"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What are the main differences between BASF's Scope 1, Scope 2, and Scope 3 emissions?",
-    "expected_keywords": ["Scope 1", "Scope 2", "Scope 3", "direct", "indirect"],
+    "expected_keywords": [
+      "Scope 1",
+      "Scope 2",
+      "Scope 3",
+      "direct",
+      "indirect"
+    ],
     "expected_answerable": true
   },
   {
     "question": "What was BASF's quarterly revenue in the fourth quarter of 2024?",
-    "expected_keywords": ["insufficient evidence"],
+    "expected_keywords": [
+      "insufficient evidence"
+    ],
     "expected_answerable": false
   },
   {
     "question": "What was BASF's closing stock price on December 31, 2024?",
-    "expected_keywords": ["insufficient evidence"],
+    "expected_keywords": [
+      "insufficient evidence"
+    ],
     "expected_answerable": false
   },
   {
     "question": "What is the personal telephone number of BASF's chief executive officer?",
-    "expected_keywords": ["insufficient evidence"],
+    "expected_keywords": [
+      "insufficient evidence"
+    ],
     "expected_answerable": false
   },
   {
     "question": "What will BASF's exact greenhouse gas emissions be in 2035?",
-    "expected_keywords": ["insufficient evidence"],
+    "expected_keywords": [
+      "insufficient evidence"
+    ],
     "expected_answerable": false
+  },
+  {
+    "question": "What is Eastman's absolute Scope 1 and Scope 2 emissions reduction target, and by what year?",
+    "expected_keywords": [
+      "30 percent",
+      "Scope 1",
+      "Scope 2",
+      "2035"
+    ],
+    "expected_answerable": true
+  },
+  {
+    "question": "What baseline year does Eastman use for its 30% Scope 1 and Scope 2 emissions reduction target?",
+    "expected_keywords": [
+      "2017",
+      "baseline",
+      "30 percent",
+      "2035"
+    ],
+    "expected_answerable": true
+  },
+  {
+    "question": "What is Eastman's long-term operational climate goal?",
+    "expected_keywords": [
+      "net-zero operations",
+      "2050"
+    ],
+    "expected_answerable": true
+  },
+  {
+    "question": "What approaches does Eastman plan to use to reach net-zero operations by 2050?",
+    "expected_keywords": [
+      "energy efficiency",
+      "process transformation",
+      "renewable energy",
+      "low-carbon technologies"
+    ],
+    "expected_answerable": true
   }
 ]
